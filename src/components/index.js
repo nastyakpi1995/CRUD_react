@@ -1,6 +1,6 @@
 import React from 'react';
-import { Route } from 'react-router-dom';
-import UserList from './userList/Index';
+import {Route} from 'react-router-dom';
+import UserList from './userList/index';
 import CreatePeople from './form/Index';
 import { UserBlock } from '../view/styled/index';
 
